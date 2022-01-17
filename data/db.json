@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "Title-2",
+      "body": "This is body for Title-2",
+      "author": "Saumya",
+      "id": 2
+    },
+    {
+      "title": "Title-3",
+      "body": "This is body for Title-3",
+      "author": "Gauri",
+      "id": 3
+    },
+    {
+      "title": "Title-4",
+      "body": "This is body for Title-4",
+      "author": "Anshi",
+      "id": 4
+    },
+    {
+      "title": "Title-5",
+      "body": "This is the body for blog-5",
+      "author": "yoshi",
+      "id": 5
+    },
+    {
+      "title": "gfkjb",
+      "body": "nm vbjkjk;",
+      "author": "yoshi",
+      "id": 6
+    }
+  ]
+}
